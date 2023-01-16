@@ -1,4 +1,5 @@
 
+#Import libraries for Arduino
 import time
 import board
 import adafruit_dht
