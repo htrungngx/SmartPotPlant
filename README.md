@@ -24,7 +24,7 @@ Others:
 * Arduino IDE
 * Adafruit IO Dashboard
 
-#Block Diagram
+# Block Diagram
 
 <img width="497" alt="Screenshot 2023-01-17 at 9 23 54" src="https://user-images.githubusercontent.com/83159640/212834906-20fa284c-a01b-48bf-9d4d-932342a7929f.png">
 
